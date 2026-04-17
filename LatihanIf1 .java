@@ -12,7 +12,7 @@ public class LatihanIf1 {
             String komputer = input.nextLine();
 
             if (komputer.equalsIgnoreCase("y")) {
-                System.out.println("Jurusan = Tehnik Informatika");
+                System.out.println("Jurusan = Teknik Informatika");
             } else {
                 System.out.println("Jurusan = Pendidikan Matematika");
             }
